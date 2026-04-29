@@ -12,8 +12,8 @@ from datetime import datetime
 from pathlib import Path
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-DISCORD_TOKEN = os.getenv("DISCORD_TOKEN", "")
-GROQ_API_KEY  = ""
+DISCORD_TOKEN = os.getenv("MTQ5ODg1NjEyMzcxNTk0NDU0OQ.GcX-II.yqPkU8bb0Iwwnqe-1WKe53JCwKbwgwLSQfnE6I", "")
+GROQ_API_KEY  = "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"
 PREFIX        = "/"
 
 # ─── INTENTS ──────────────────────────────────────────────────────────────────
